@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactfeb/static/css/main.073c9b0a.css",
+    "main.js": "/reactfeb/static/js/main.b6643bd3.js",
+    "static/js/787.ad3681b0.chunk.js": "/reactfeb/static/js/787.ad3681b0.chunk.js",
+    "index.html": "/reactfeb/index.html",
+    "main.073c9b0a.css.map": "/reactfeb/static/css/main.073c9b0a.css.map",
+    "main.b6643bd3.js.map": "/reactfeb/static/js/main.b6643bd3.js.map",
+    "787.ad3681b0.chunk.js.map": "/reactfeb/static/js/787.ad3681b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b6643bd3.js"
+  ]
+}
